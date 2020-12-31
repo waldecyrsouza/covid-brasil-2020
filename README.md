@@ -30,7 +30,7 @@ Covid_brasil_version_31-12-2020 Jupyter Notebook with the code created.
 
 --- Results ---
 
-Considering all the cities, the top 10 highest deaths per million occured in small cities. Curvelândia/MT is the top 1, a city of 5241 people has 239 deaths, so 45.602 deaths per million people.
+Considering all the cities, the top 10 highest deaths per million occured in small cities. Curvelândia/MT is the top 1, a city of 5241 people that has 239 deaths, so 45.602 deaths per million people.
 
 Another approach, taking in account only the 100 major cities in Brazil showed that Rio de Janeiro/RJ is the one with more deaths per million inhabitants: 2.168.
 
